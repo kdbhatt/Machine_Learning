@@ -1,8 +1,8 @@
 ---
-title: "Assignment: Prediction Assignment Writeup"
-output: html_document
+title: 'Assignment: Prediction Assignment Writeup'
 author: "Krishan Bhatt"
 date: "23 April, 2016"
+output: pdf_document
 ---
 
 ##Background
